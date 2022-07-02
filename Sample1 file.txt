@@ -2,3 +2,5 @@ My first project
 created new repo with user name as my phone number 
 with  userid supraja.scm@ and pw
 DOing the first commit
+
+created new branch with name newbranch1 and will push to remote repo
